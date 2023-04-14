@@ -4,9 +4,16 @@ This project uses Linear Regression algorithm to predict house prices. The datas
 This project is ideal for those who are interested in learning machine learning concepts and techniques or those who are looking to apply machine learning to real-world problems such as predicting house prices. By following this project, you will learn how to preprocess data, train a linear regression model, evaluate its performance, and make predictions. The project is written in Python and utilizes popular machine learning libraries such as NumPy, Pandas, and Scikit-learn.
 
 # Table of Contents
+## Screenshot
 ## Installation
 ## Contributing
 
+# Screenshot
+there is the some screensot 
+![alt first](lr1.png)
+![alt second](lr2.png)
+![alt third](lr3.png)
+![alt fourth](lr4.png)
 # Installation 
 So you can install this project directiory using this command
 1. Clone the repository - git clone https://github.com/umairrrkhan/Predicting-House-Price-Using-LInearRegression.git
