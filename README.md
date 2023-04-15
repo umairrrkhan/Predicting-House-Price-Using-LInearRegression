@@ -15,7 +15,7 @@ there is the some screensot
 ![ third](lr3.png)
 ![ fourth](lr4.png)
 # Installation 
-So you can install this project directiory using this command
+You can install this project directiory using this command
 1. Clone the repository - git clone https://github.com/umairrrkhan/Predicting-House-Price-Using-LInearRegression.git
 
 # Contributing
