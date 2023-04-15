@@ -10,10 +10,10 @@ This project is ideal for those who are interested in learning machine learning 
 
 # Screenshot
 there is the some screensot 
-![alt first](lr1.png)
-![alt second](lr2.png)
-![alt third](lr3.png)
-![alt fourth](lr4.png)
+![ first](lr1.png)
+![ second](lr2.png)
+![ third](lr3.png)
+![ fourth](lr4.png)
 # Installation 
 So you can install this project directiory using this command
 1. Clone the repository - git clone https://github.com/umairrrkhan/Predicting-House-Price-Using-LInearRegression.git
